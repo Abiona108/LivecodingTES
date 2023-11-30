@@ -4,3 +4,83 @@
     box-sizing: border-box;
     
 }
+.backgroundcol{
+    background-color: #f7f8ff;
+    padding: 15px 0;
+}
+nav .link-button a{
+    text-decoration: none;
+    color: #0e0a47;
+    font-size: 1.1em;
+}
+nav .link-button button{
+    background-color: #0e0a47;
+    color: white;
+    font-size: 1.1em;
+    padding: 15px 10px;
+    border-radius: 10px;
+    border: none;
+}
+nav .link-button button:hover{
+    background-color: blue;
+    transition: .4s ease-in-out;
+}
+nav{
+   align-content: center;
+   justify-content: center; 
+}
+.item-lists ul li a{
+    color: #0e0a47;
+    font-size: 1.3em;
+}
+.item-lists ul li{
+    padding: 0 15px;
+}
+
+/* Smart simple school section */
+.smartsimple header{
+    background-color: #d0d8fc;
+    width: 30%;
+}
+.smartsimple{
+    padding-left: 50px;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+.smartsimple h1{
+    color: #0e0a47;
+    font-size: 4rem;
+}
+.smartsimple p{
+    font-size: 1.5em;
+    padding: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
