@@ -61,6 +61,11 @@ nav{
     padding-top: 200px;
     padding-bottom: 60px;
 }
+.link-button #two:hover{
+    background-color: yellow;
+}
+
+/* Rome was not section */
 .Romewas{
     justify-content: center;
     align-content: center;
@@ -69,6 +74,7 @@ nav{
 .Romewas h1{
     font-size: 4rem;
     margin-bottom: 30px;
+    overflow: hidden;
 }
 .Romewas p{
     font-size: 1.2em;
@@ -81,7 +87,45 @@ nav{
     font-weight: bold;
     line-height: 12px;
 }
+.radiohover .card{
+    background-color: #112257;
+}
+.radiohover .card h3{
+    color: white;
+    padding: 13px 10px;
+    border-bottom: 2px solid #d0897d;
+}
+.radiohover{
+    justify-content: space-between;
+}
+.radiohover p{
+    color: white;
+    font-weight: bold;
+    padding: 0 15px;
+}
+.cards h3{
+    overflow-y: hidden;
+}
+.cards .card h3{
 
+    color: #112257;
+    padding: 13px 10px;
+    border-bottom: 2px solid #d0897d;
+}
+.cards p{
+    color: #606a6a;
+    padding: 0 15px;
+}
+.cards:hover{
+    background-color: #112257;
+    color: white;
+    
+}
+.cards p:hover{
+    background-color: #112257;
+    color: white;
+    
+}
 
 
 
