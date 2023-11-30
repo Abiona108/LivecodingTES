@@ -45,7 +45,7 @@ nav{
 .smartsimple{
     padding-left: 50px;
     margin: 0 auto;
-    padding-top: 150px;
+    padding-top:20px;
 }
 .smartsimple h1{
     color: #0e0a47;
@@ -55,8 +55,30 @@ nav{
     font-size: 1.5em;
     padding: 20px 0;
 }
-
-
+.sectioncont{
+    padding-top: 200px;
+    padding-bottom: 60px;
+}
+.Romewas{
+    justify-content: center;
+    align-content: center;
+    padding: 100px 0;
+}
+.Romewas h1{
+    font-size: 4rem;
+    margin-bottom: 30px;
+}
+.Romewas p{
+    font-size: 1.2em;
+    color: #606a6a;
+}
+.Romewas a{
+    text-decoration: none;
+    color: #191464;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 12px;
+}
 
 
 
