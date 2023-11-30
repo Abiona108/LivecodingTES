@@ -126,6 +126,34 @@ nav{
     color: white;
     
 }
+/* We have Solutions section */
+.we_havediv p{
+    color: #8997ff;
+}
+.we_havediv h1{
+    color: #0e0a47;
+    font-size: 3em;
+    overflow: hidden;    
+}
+.we_havecontent{
+    color: #606a6a;
+}
+.housingcont{
+    padding: 100px 0;
+}
+.wehaveimg img{
+    border-radius: 15px;
+    transition: .5s;
+    overflow: hidden;
+}
+.wehaveimg{
+    padding-top: 30px;
+    overflow: hidden;
+}
+.wehaveimg img:hover{
+    transform: scaleY(1.2);
+    overflow: hidden;
+}
 
 
 
@@ -140,10 +168,13 @@ nav{
 
 
 
-@media screen and (max-width: 475px) {
+@media screen and (max-width: 500px) {
     .dashboardimg img{
         width: initial;
         justify-content: center;
+    }
+    .link-button{
+        display: block;
     }
 }
 
