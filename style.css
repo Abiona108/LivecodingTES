@@ -7,6 +7,7 @@
 .backgroundcol{
     background-color: #f7f8ff;
     padding: 15px 0;
+    
 }
 nav .link-button a{
     text-decoration: none;
@@ -50,6 +51,7 @@ nav{
 .smartsimple h1{
     color: #0e0a47;
     font-size: 4rem;
+    overflow: hidden;
 }
 .smartsimple p{
     font-size: 1.5em;
